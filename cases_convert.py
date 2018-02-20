@@ -47,7 +47,15 @@ Professor Layton vs. Ace Attorney
     -The English Court
     -The Fire Witch
     -The Golden Court
-    -The Final Witch Trial"""
+    -The Final Witch Trial
+    Spirit of Justice
+    - The Foreign Turnabout
+    - The Magical Turnabout
+    - The Rite Of The Turnabout
+    - Turnabout Storyteller
+    - Turnabout Revolution
+    - Turnabout Time Traveler"""
+
 
 cases = cases.split("\n")
 output = ""
